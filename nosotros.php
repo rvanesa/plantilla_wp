@@ -58,21 +58,21 @@
                                         <div class="row">
                                             <div class="col-md-3 col-sm-6">
                                                 <div class="team-member">
-                                                    <img src="img/p2.jpeg" class="img-fluid" alt="Imagen de Juan Pérez">
+                                                    <img src="img/p2.jpeg" class="card-img-top w-100 h-auto alt="Imagen de Juan Pérez">
                                                     <h3>Juan Pérez</h3>
                                                     <p>CEO y Fundador</p>
                                                 </div>
                                             </div>
                                             <div class="col-md-3 col-sm-6">
                                                 <div class="team-member">
-                                                    <img src="img/p1.jpg" class="img-fluid" alt="Imagen de María Rodríguez">
+                                                    <img src="img/p1.jpg" class="card-img-top w-100 h-auto alt="Imagen de María Rodríguez">
                                                     <h3>María Rodríguez</h3>
                                                     <p>Diseñadora Gráfica</p>
                                                 </div>
                                             </div>
                                             <div class="col-md-3 col-sm-6">
                                                 <div class="team-member">
-                                                    <img src="img/p3.jpg" class="img-fluid" alt="Imagen de Carlos Gómez">
+                                                    <img src="img/p3.jpg" class="card-img-top w-100 h-auto alt="Imagen de Carlos Gómez">
                                                     <h3>Carlos Gómez</h3>
                                                     <p>Desarrollador Web</p>
                                                 </div>
