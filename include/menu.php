@@ -237,6 +237,13 @@
                             </li>
 
                             <li>
+                                <a href="nosotros.php" class="waves-effect">
+                                    <i class="mdi mdi-account"></i> 
+                                    <span>Nosotros</span>
+                                </a>
+                                
+                            </li>
+                            <li>
                                 <a href="categorias.php" class="waves-effect">
                                     <i class="mdi mdi-folder"></i> <!-- Cambia mdi-diamond-stone por mdi-folder -->
                                     <span>Categorias</span>
