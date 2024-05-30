@@ -24,6 +24,10 @@
         <!-- Begin page -->
         <div id="layout-wrapper">
             <div class="header-border"></div>
+
+                <?php bloginfo('template_url');?>
+
+            
             <header id="page-topbar">
                 <div class="navbar-header">
 
